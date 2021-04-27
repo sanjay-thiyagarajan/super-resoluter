@@ -1,4 +1,6 @@
-# Super Resolution using ESRGAN  
+# Super Resolution using ESRGAN 
+<a href="https://colab.research.google.com/github/sanjay-thiyagarajan/super-resoluter/blob/main/SuperResolute.ipynb">![](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)</a>  
+
 This project aims on achieving super resolution through pretrained ESRGAN model on Keras.  
 ### Samples:  
 ![](https://user-images.githubusercontent.com/42594454/116289650-4b0a9700-a7b0-11eb-8ea8-d5bf83ca566e.png)  
